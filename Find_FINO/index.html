@@ -1,87 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <link rel="stylesheet" href="./style.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
-    <title>Find FINO</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <link rel="stylesheet" href="./style.css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+        <title>Find FINO</title>
+    </head>
 
-<body>
-    <h1 id="header">
-        Find FINO
-    </h1>
-    <div 
-        class="container" 
-    >
-        <div id="columnOne" class="col">
-            <ul>
-                <li class="vendorListItem" v-for="vendor in vendors">
-                    <div class="vendorModal">
-                        <br>
-                        <strong>{{vendor.name}}</strong>
-                        </br>
-                        <em>{{vendor.type}}</em>
-                        </br>
-                        {{vendor.address}}
-                        </br>
-                        {{vendor.city}},
-                        {{vendor.state}}
-                        {{vendor.zipCode}}
-                        </br>
-                        <br>
-                    </div>
-                </li>
-            </ul>
+    <body>
+        <h1 id="header">
+            Find FINO
+        </h1>
+        <div 
+            class="container" 
+        >
+            <div id="columnOne" class="col">
+                <ul>
+                    <li class="vendorListItem" v-for="vendor in vendors">
+                        <div class="vendorModal">
+                            <br>
+                            <strong>{{vendor.name}}</strong>
+                            </br>
+                            <em>{{vendor.type}}</em>
+                            </br>
+                            {{vendor.address}}
+                            </br>
+                            {{vendor.city}},
+                            {{vendor.state}}
+                            {{vendor.zipCode}}
+                            </br>
+                            <br>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div id="columnTwo" class="col">
+                <ul>
+                    <li class="vendorListItem" v-for="vendor in vendors">
+                        <div class="vendorModal">
+                            <br>
+                            <strong>{{vendor.name}}</strong>
+                            </br>
+                            <em>{{vendor.type}}</em>
+                            </br>
+                            {{vendor.address}}
+                            </br>
+                            {{vendor.city}},
+                            {{vendor.state}}
+                            {{vendor.zipCode}}
+                            </br>
+                            <br>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="columnThree" class="col">
+                <ul>
+                    <li class="vendorListItem" v-for="vendor in vendors">
+                        <div class="vendorModal">
+                            <br>
+                            <strong>{{vendor.name}}</strong>
+                            </br>
+                            <em>{{vendor.type}}</em>
+                            </br>
+                            {{vendor.address}}
+                            </br>
+                            {{vendor.city}},
+                            {{vendor.state}}
+                            {{vendor.zipCode}}
+                            </br>
+                            <br>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
-        <div id="columnTwo" class="col">
-            <ul>
-                <li class="vendorListItem" v-for="vendor in vendors">
-                    <div class="vendorModal">
-                        <br>
-                        <strong>{{vendor.name}}</strong>
-                        </br>
-                        <em>{{vendor.type}}</em>
-                        </br>
-                        {{vendor.address}}
-                        </br>
-                        {{vendor.city}},
-                        {{vendor.state}}
-                        {{vendor.zipCode}}
-                        </br>
-                        <br>
-                    </div>
-                </li>
-            </ul>
-        </div>
-
-        <div id="columnThree" class="col">
-            <ul>
-                <li class="vendorListItem" v-for="vendor in vendors">
-                    <div class="vendorModal">
-                        <br>
-                        <strong>{{vendor.name}}</strong>
-                        </br>
-                        <em>{{vendor.type}}</em>
-                        </br>
-                        {{vendor.address}}
-                        </br>
-                        {{vendor.city}},
-                        {{vendor.state}}
-                        {{vendor.zipCode}}
-                        </br>
-                        <br>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <script src="./script.js"></script>
-</body>
-
-
+        <script src="./script.js"></script>
+    </body>
 </html>

@@ -9,7 +9,7 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60657,
-        country: "United states",
+        country: "United States",
         latitude: 41.941964,
         longitude: -87.652008
       },
@@ -20,40 +20,40 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60660,
-        country: "United states",
+        country: "United States",
         latitude: 41.990268,
         longitude: -87.6607
       },
       {
         name: "VU Rooftop",
         type: "Bar",
-        address: "123 E Cermark Rd",
+        address: "123 E Cermak Rd",
         city: "Chicago",
         state: "IL",
         zipCode: 60616,
-        country: "United states",
+        country: "United States",
         latitude: 41.844883,
         longitude: -87.624032
       },
       {
         name: "The Small Bar",
         type: "Bar",
-        address: "2956 N Albany Ave 1st",
+        address: "2956 N Albany Ave",
         city: "Chicago",
         state: "IL",
         zipCode: 60623,
-        country: "United states",
+        country: "United States",
         latitude: 41.935543,
         longitude: -87.70543
       },
       {
         name: "Taco Maya",
         type: "Restaurant",
-        address: "162 E lake St",
+        address: "162 E Lake St",
         city: "Bloomingdale",
         state: "IL",
         zipCode: 60108,
-        country: "United states",
+        country: "United States",
         latitude: 41.957815,
         longitude: -88.073908
       },
@@ -64,7 +64,7 @@ var columnOne = new Vue({
         city: "Countryside",
         state: "IL",
         zipCode: 60525,
-        country: "United states",
+        country: "United States",
         latitude: 41.790329,
         longitude: -87.868118
       },
@@ -75,18 +75,18 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60623,
-        country: "United states",
+        country: "United States",
         latitude: 41.844584,
         longitude: -87.718114
       },
       {
         name: "Oakhurst Liquors",
         type: "Liquor Store",
-        address: "2681 E New York St Unit 109",
+        address: "2681 E New York St",
         city: "Aurora",
         state: "IL",
         zipCode: 60502,
-        country: "United states",
+        country: "United States",
         latitude: 41.757992,
         longitude: -88.251083
       },
@@ -97,7 +97,7 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60657,
-        country: "United states",
+        country: "United States",
         latitude: 41.945605,
         longitude: -87.654907
       },
@@ -108,18 +108,18 @@ var columnOne = new Vue({
         city: "Oak Park",
         state: "IL",
         zipCode: 60301,
-        country: "United states",
+        country: "United States",
         latitude: 41.888794,
         longitude: -87.7943
       },
       {
         name: "Prosecco Restaurant",
         type: "Restaurant",
-        address: "710 N Wells St Fl 1 & Bsmt",
+        address: "710 N Wells St",
         city: "Chicago",
         state: "IL",
         zipCode: 60654,
-        country: "United states",
+        country: "United States",
         latitude: 41.895223,
         longitude: -87.634519
       },
@@ -130,7 +130,7 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60618,
-        country: "United states",
+        country: "United States",
         latitude: 41.939108,
         longitude: -87.703441
       },
@@ -141,7 +141,7 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60611,
-        country: "United states",
+        country: "United States",
         latitude: 41.899517,
         longitude: -87.621329
       },
@@ -152,18 +152,18 @@ var columnOne = new Vue({
         city: "Carol Stream",
         state: "IL",
         zipCode: 60188,
-        country: "United states",
+        country: "United States",
         latitude: 41.915737,
         longitude: -88.129434
       },
       {
         name: "1400 Market Place",
         type: "Liquor Store",
-        address: "1400 N Lake Shore Dr CU-IL, 1st floor",
+        address: "1400 N Lake Shore Dr CU-IL",
         city: "Chicago",
         state: "IL",
         zipCode: 60610,
-        country: "United states",
+        country: "United States",
         latitude: 41.9081,
         longitude: -87.626403
       },
@@ -174,18 +174,18 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60622,
-        country: "United states",
+        country: "United States",
         latitude: 41.869723,
         longitude: -87.685837
       },
       {
         name: "Seven Nine Eleven",
         type: "Liquor Store",
-        address: "4884 S Archer Ave Fl 1",
+        address: "4884 S Archer Ave",
         city: "Chicago",
         state: "IL",
         zipCode: 60632,
-        country: "United states",
+        country: "United States",
         latitude: 41.804718,
         longitude: -87.720129
       },
@@ -196,7 +196,7 @@ var columnOne = new Vue({
         city: "Warrenville",
         state: "IL",
         zipCode: 60041,
-        country: "United states",
+        country: "United States",
         latitude: 42.379823,
         longitude: -88.167257
       },
@@ -207,7 +207,7 @@ var columnOne = new Vue({
         city: "Tinley Park",
         state: "IL",
         zipCode: 60477,
-        country: "United states",
+        country: "United States",
         latitude: 41.583023,
         longitude: -87.785117
       },
@@ -218,7 +218,7 @@ var columnOne = new Vue({
         city: "Palatine",
         state: "IL",
         zipCode: 60074,
-        country: "United states",
+        country: "United States",
         latitude: 42.131462,
         longitude: -88.026329
       },
@@ -229,18 +229,18 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60638,
-        country: "United states",
+        country: "United States",
         latitude: 41.798323,
         longitude: -87.747327
       },
       {
         name: "Maple and Ash",
         type: "Restaurant",
-        address: "6-8 W. Maple St. 1st and 3rd floors",
+        address: "6-8 W. Maple St",
         city: "Chicago",
         state: "IL",
         zipCode: 60610,
-        country: "United states",
+        country: "United States",
         latitude: 41.885351,
         longitude: -87.836681
       },
@@ -251,7 +251,7 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60614,
-        country: "United states",
+        country: "United States",
         latitude: 41.93292,
         longitude: -87.647316
       },
@@ -262,7 +262,7 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60610,
-        country: "United states",
+        country: "United States",
         latitude: 41.910934,
         longitude: -87.635376
       },
@@ -273,7 +273,7 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60654,
-        country: "United states",
+        country: "United States",
         latitude: 41.89683,
         longitude: -87.636843
       },
@@ -284,7 +284,7 @@ var columnOne = new Vue({
         city: "Schaumburg",
         state: "IL",
         zipCode: 60173,
-        country: "United states",
+        country: "United States",
         latitude: 42.04798,
         longitude: -88.05085
       },
@@ -295,7 +295,7 @@ var columnOne = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60661,
-        country: "United states",
+        country: "United States",
         latitude: 41.885294,
         longitude: -87.642347
       },
@@ -306,18 +306,18 @@ var columnOne = new Vue({
         city: "Morton Grove",
         state: "IL",
         zipCode: 60053,
-        country: "United states",
+        country: "United States",
         latitude: 42.040975,
         longitude: -87.805345
       },
       {
         name: "Que Onda",
         type: "Restaurant",
-        address: "6701 N Northwest Hwy FL 1",
+        address: "6701 N Northwest Hwy",
         city: "Chicago",
         state: "IL",
         zipCode: 60631,
-        country: "United states",
+        country: "United States",
         latitude: 42.003049,
         longitude: -87.81614
       },
@@ -328,29 +328,29 @@ var columnOne = new Vue({
         city: "Addison",
         state: "IL",
         zipCode: 60101,
-        country: "United states",
+        country: "United States",
         latitude: 41.92015,
         longitude: -87.994713
       },
       {
         name: "Hub 51",
         type: "Restaurant",
-        address: "51 W Hubbard St",
+        address: "51 W HubbaRd St",
         city: "Chicago",
         state: "IL",
         zipCode: 60654,
-        country: "United states",
+        country: "United States",
         latitude: 41.889886,
         longitude: -87.62976
       },
       {
         name: "Chi Town Food and Liquor",
         type: "Restaurant",
-        address: "5002 N Pulaski Rd  FL 1",
+        address: "5002 N Pulaski Rd",
         city: "Chicago",
         state: "IL",
         zipCode: 60630,
-        country: "United states",
+        country: "United States",
         latitude: 41.972083,
         longitude: -87.728499
       },
@@ -361,7 +361,7 @@ var columnOne = new Vue({
         city: "Oak Park",
         state: "IL",
         zipCode: 60302,
-        country: "United states",
+        country: "United States",
         latitude: 42.036173,
         longitude: -88.283047
       },
@@ -372,7 +372,7 @@ var columnOne = new Vue({
         city: "Lansing",
         state: "IL",
         zipCode: 60438,
-        country: "United states",
+        country: "United States",
         latitude: 41.566838,
         longitude: -87.559109
       },
@@ -383,7 +383,7 @@ var columnOne = new Vue({
         city: "Lisle",
         state: "IL",
         zipCode: 60532,
-        country: "United states",
+        country: "United States",
         latitude: 41.809524,
         longitude: -88.112342
       }
@@ -402,18 +402,18 @@ var columnTwo = new Vue({
         city: "Hazel Crest",
         state: "IL",
         zipCode: 60429,
-        country: "United states",
+        country: "United States",
         latitude: 41.570285,
         longitude: -87.692723
       },
       {
-        name: "Mimi's liquor",
+        name: "Mimi's Liquor",
         type: "Liquor Store",
         address: "453 E Cass St",
         city: "Joliet",
         state: "IL",
         zipCode: 60432,
-        country: "United states",
+        country: "United States",
         latitude: 41.528447,
         longitude: -88.071005
       },
@@ -424,7 +424,7 @@ var columnTwo = new Vue({
         city: "Lakemoor",
         state: "IL",
         zipCode: 60051,
-        country: "United states",
+        country: "United States",
         latitude: 42.328273,
         longitude: -88.198246
       },
@@ -435,7 +435,7 @@ var columnTwo = new Vue({
         city: "Monee",
         state: "IL",
         zipCode: 60449,
-        country: "United states",
+        country: "United States",
         latitude: 41.423677,
         longitude: -87.742641
       },
@@ -446,7 +446,7 @@ var columnTwo = new Vue({
         city: "Romeoville",
         state: "IL",
         zipCode: 60544,
-        country: "United states",
+        country: "United States",
         latitude: 41.61071,
         longitude: -88.154591
       },
@@ -457,18 +457,18 @@ var columnTwo = new Vue({
         city: "Addison",
         state: "IL",
         zipCode: 60613,
-        country: "United states",
+        country: "United States",
         latitude: 41.936663,
         longitude: -87.988301
       },
       {
         name: "Foremost Liquor",
         type: "Liquor Store",
-        address: "1776 W Algonquin rd",
+        address: "1776 W Algonquin Rd",
         city: "Arlington Heights",
         state: "IL",
         zipCode: 60005,
-        country: "United states",
+        country: "United States",
         latitude: 42.05824,
         longitude: -88.006261
       },
@@ -479,7 +479,7 @@ var columnTwo = new Vue({
         city: "Aurora",
         state: "IL",
         zipCode: 60506,
-        country: "United states",
+        country: "United States",
         latitude: 41.786745,
         longitude: -88.378331
       },
@@ -490,7 +490,7 @@ var columnTwo = new Vue({
         city: "Bloomingdale",
         state: "IL",
         zipCode: 60108,
-        country: "United states",
+        country: "United States",
         latitude: 41.95842,
         longitude: -88.086707
       },
@@ -501,7 +501,7 @@ var columnTwo = new Vue({
         city: "Boolingbrook",
         state: "IL",
         zipCode: 60440,
-        country: "United states",
+        country: "United States",
         latitude: 41.717537,
         longitude: -88.049799
       },
@@ -512,7 +512,7 @@ var columnTwo = new Vue({
         city: "Burbank",
         state: "IL",
         zipCode: 60459,
-        country: "United states",
+        country: "United States",
         latitude: 41.734048,
         longitude: -87.789658
       },
@@ -523,18 +523,18 @@ var columnTwo = new Vue({
         city: "Calumet Park",
         state: "IL",
         zipCode: 60827,
-        country: "United states",
+        country: "United States",
         latitude: 41.670345,
         longitude: -87.641814
       },
       {
         name: "Red Rooster Pantry",
         type: "Liquor Store",
-        address: "260 County farm rd",
+        address: "260 County Farm Rd",
         city: "Carol Stream",
         state: "IL",
         zipCode: 60185,
-        country: "United states",
+        country: "United States",
         latitude: 41.905636,
         longitude: -88.150717
       },
@@ -545,7 +545,7 @@ var columnTwo = new Vue({
         city: "Carol Stream",
         state: "IL",
         zipCode: 60188,
-        country: "United states",
+        country: "United States",
         latitude: 41.906581,
         longitude: -88.120705
       },
@@ -556,7 +556,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60608,
-        country: "United states",
+        country: "United States",
         latitude: 41.857595,
         longitude: -87.655818
       },
@@ -567,7 +567,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60657,
-        country: "United states",
+        country: "United States",
         latitude: 41.934065,
         longitude: -87.660541
       },
@@ -578,7 +578,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60614,
-        country: "United states",
+        country: "United States",
         latitude: 41.921566,
         longitude: -87.648983
       },
@@ -589,7 +589,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60625,
-        country: "United states",
+        country: "United States",
         latitude: 41.966562,
         longitude: -87.689125
       },
@@ -600,7 +600,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60625,
-        country: "United states",
+        country: "United States",
         latitude: 41.968319,
         longitude: -87.688016
       },
@@ -611,7 +611,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60625,
-        country: "United states",
+        country: "United States",
         latitude: 41.967898,
         longitude: -87.688253
       },
@@ -622,7 +622,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60639,
-        country: "United states",
+        country: "United States",
         latitude: 41.924098,
         longitude: -87.745467
       },
@@ -633,7 +633,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60657,
-        country: "United states",
+        country: "United States",
         latitude: 41.943577,
         longitude: -87.669153
       },
@@ -644,7 +644,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60608,
-        country: "United states",
+        country: "United States",
         latitude: 41.857597,
         longitude: -87.65563
       },
@@ -655,7 +655,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60654,
-        country: "United states",
+        country: "United States",
         latitude: 41.894645,
         longitude: -87.632131
       },
@@ -666,7 +666,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60608,
-        country: "United states",
+        country: "United States",
         latitude: 41.857785,
         longitude: -87.65752
       },
@@ -677,7 +677,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60608,
-        country: "United states",
+        country: "United States",
         latitude: 41.857778,
         longitude: -87.657952
       },
@@ -688,7 +688,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60605,
-        country: "United states",
+        country: "United States",
         latitude: 41.871522,
         longitude: -87.627297
       },
@@ -699,7 +699,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60640,
-        country: "United states",
+        country: "United States",
         latitude: 41.979347,
         longitude: -87.667951
       },
@@ -710,7 +710,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60624,
-        country: "United states",
+        country: "United States",
         latitude: 41.881325,
         longitude: -87.723871
       },
@@ -721,7 +721,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60605,
-        country: "United states",
+        country: "United States",
         latitude: 41.873016,
         longitude: -87.630975
       },
@@ -732,7 +732,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60620,
-        country: "United states",
+        country: "United States",
         latitude: 41.735101,
         longitude: -87.62986
       },
@@ -743,7 +743,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60626,
-        country: "United states",
+        country: "United States",
         latitude: 42.007534,
         longitude: -87.666311
       },
@@ -754,7 +754,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60626,
-        country: "United states",
+        country: "United States",
         latitude: 42.007421,
         longitude: -87.66604
       },
@@ -765,7 +765,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60640,
-        country: "United states",
+        country: "United States",
         latitude: 41.965765,
         longitude: -87.658247
       },
@@ -776,7 +776,7 @@ var columnTwo = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60643,
-        country: "United states",
+        country: "United States",
         latitude: 41.711687,
         longitude: -87.682191
       }
@@ -795,7 +795,7 @@ var columnThree = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60607,
-        country: "United states",
+        country: "United States",
         latitude: 41.869075,
         longitude: -87.663787
       },
@@ -806,7 +806,7 @@ var columnThree = new Vue({
         city: "Cicero",
         state: "IL",
         zipCode: 60804,
-        country: "United states",
+        country: "United States",
         latitude: 41.836824,
         longitude: -87.743885
       },
@@ -817,18 +817,18 @@ var columnThree = new Vue({
         city: "Downers Grove",
         state: "IL",
         zipCode: 60516,
-        country: "United states",
+        country: "United States",
         latitude: 41.770464,
         longitude: -88.032849
       },
       {
         name: "Elgin Liquor and Wine",
         type: "Liquor Store",
-        address: "1350 E chicago unit 31",
+        address: "1350 E Chicago",
         city: "Elgin",
         state: "IL",
         zipCode: 60120,
-        country: "United states",
+        country: "United States",
         latitude: 42.031438,
         longitude: -88.238177
       },
@@ -839,7 +839,7 @@ var columnThree = new Vue({
         city: "Elgin",
         state: "IL",
         zipCode: 60120,
-        country: "United states",
+        country: "United States",
         latitude: 42.04599,
         longitude: -88.259049
       },
@@ -850,18 +850,18 @@ var columnThree = new Vue({
         city: "Forest Park",
         state: "IL",
         zipCode: 60130,
-        country: "United states",
+        country: "United States",
         latitude: 41.879234,
         longitude: -87.817602
       },
       {
         name: "Puff N Sip LTC",
         type: "Liquor Store",
-        address: "10 S Route 12,",
-        city: "Fox lake",
+        address: "10 US-12",
+        city: "Fox Lake",
         state: "IL",
         zipCode: 60020,
-        country: "United states",
+        country: "United States",
         latitude: 42.39669,
         longitude: -88.1837
       },
@@ -872,7 +872,7 @@ var columnThree = new Vue({
         city: "Hanover Park",
         state: "IL",
         zipCode: 60133,
-        country: "United states",
+        country: "United States",
         latitude: 41.942339,
         longitude: -88.166741
       },
@@ -883,7 +883,7 @@ var columnThree = new Vue({
         city: "Hoffman Estates",
         state: "IL",
         zipCode: 60192,
-        country: "United states",
+        country: "United States",
         latitude: 42.090992,
         longitude: -88.120024
       },
@@ -894,7 +894,7 @@ var columnThree = new Vue({
         city: "Lake Zurich",
         state: "IL",
         zipCode: 60047,
-        country: "United states",
+        country: "United States",
         latitude: 42.197326,
         longitude: -88.084224
       },
@@ -905,18 +905,18 @@ var columnThree = new Vue({
         city: "Lombard",
         state: "IL",
         zipCode: 60148,
-        country: "United states",
+        country: "United States",
         latitude: 41.859967,
         longitude: -88.016016
       },
       {
         name: "JP Liquor",
         type: "Liquor Store",
-        address: "1292 Rickert Dr suite 108",
+        address: "1292 Rickert Dr",
         city: "Naperville",
         state: "IL",
         zipCode: 60540,
-        country: "United states",
+        country: "United States",
         latitude: 41.749095,
         longitude: -88.166787
       },
@@ -927,7 +927,7 @@ var columnThree = new Vue({
         city: "Niles",
         state: "IL",
         zipCode: 60714,
-        country: "United states",
+        country: "United States",
         latitude: 42.05469,
         longitude: -87.840897
       },
@@ -938,18 +938,18 @@ var columnThree = new Vue({
         city: "Niles",
         state: "IL",
         zipCode: 60714,
-        country: "United states",
+        country: "United States",
         latitude: 42.022082,
         longitude: -87.811086
       },
       {
         name: "S and G Food and liquor",
         type: "Liquor Store",
-        address: "828 N Elmhurst rd",
+        address: "828 N Elmhurst Rd",
         city: "Prospect Heights",
         state: "IL",
         zipCode: 60070,
-        country: "United states",
+        country: "United States",
         latitude: 42.111154,
         longitude: -87.937396
       },
@@ -960,7 +960,7 @@ var columnThree = new Vue({
         city: "Roselle",
         state: "IL",
         zipCode: 60172,
-        country: "United states",
+        country: "United States",
         latitude: 41.998918,
         longitude: -88.060589
       },
@@ -971,7 +971,7 @@ var columnThree = new Vue({
         city: "Rosemont",
         state: "IL",
         zipCode: 60018,
-        country: "United states",
+        country: "United States",
         latitude: 42.008345,
         longitude: -87.887124
       },
@@ -982,7 +982,7 @@ var columnThree = new Vue({
         city: "Scahumburg",
         state: "IL",
         zipCode: 60194,
-        country: "United states",
+        country: "United States",
         latitude: 42.027401,
         longitude: -88.059321
       },
@@ -993,18 +993,18 @@ var columnThree = new Vue({
         city: "Waukegan",
         state: "IL",
         zipCode: 60085,
-        country: "United states",
+        country: "United States",
         latitude: 42.369976,
         longitude: -87.871057
       },
       {
         name: "Mr. A's Galleria and Liquor",
         type: "Liquor Store",
-        address: "1400 S Neltnor Blvd Unit 108",
+        address: "1400 S Neltnor Blvd",
         city: "West Chicago",
         state: "IL",
         zipCode: 60185,
-        country: "United states",
+        country: "United States",
         latitude: 41.904324,
         longitude: -88.203935
       },
@@ -1015,18 +1015,18 @@ var columnThree = new Vue({
         city: "Wilmington",
         state: "IL",
         zipCode: 60481,
-        country: "United states",
+        country: "United States",
         latitude: 41.305476,
         longitude: -88.159176
       },
       {
         name: "RPM",
         type: "Restaurant",
-        address: "52 W IL St 18th Floor",
+        address: "52 W IL St",
         city: "Chicago",
         state: "IL",
         zipCode: 60654,
-        country: "United states",
+        country: "United States",
         latitude: 41.89113,
         longitude: -87.629967
       },
@@ -1037,7 +1037,7 @@ var columnThree = new Vue({
         city: "Schiller Park",
         state: "IL",
         zipCode: 60176,
-        country: "United states",
+        country: "United States",
         latitude: 41.954612,
         longitude: -87.862251
       },
@@ -1048,18 +1048,18 @@ var columnThree = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60657,
-        country: "United states",
+        country: "United States",
         latitude: 41.936641,
         longitude: -87.648577
       },
       {
         name: "Binny's",
         type: "Liquor Store",
-        address: "790 Royal St George Unit 128",
+        address: "790 Royal St George",
         city: "Naperville",
         state: "IL",
         zipCode: 60563,
-        country: "United states",
+        country: "United States",
         latitude: 41.783352,
         longitude: -88.164476
       },
@@ -1070,7 +1070,7 @@ var columnThree = new Vue({
         city: "Schaumburg",
         state: "IL",
         zipCode: 60195,
-        country: "United states",
+        country: "United States",
         latitude: 42.047452,
         longitude: -88.087166
       },
@@ -1081,7 +1081,7 @@ var columnThree = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60614,
-        country: "United states",
+        country: "United States",
         latitude: 41.913477,
         longitude: -87.655758
       },
@@ -1092,7 +1092,7 @@ var columnThree = new Vue({
         city: "Bloomingdale",
         state: "IL",
         zipCode: 60108,
-        country: "United states",
+        country: "United States",
         latitude: 41.939729,
         longitude: -88.108708
       },
@@ -1103,7 +1103,7 @@ var columnThree = new Vue({
         city: "North Riverside",
         state: "IL",
         zipCode: 60546,
-        country: "United states",
+        country: "United States",
         latitude: 41.851103,
         longitude: -87.80633
       },
@@ -1114,7 +1114,7 @@ var columnThree = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60641,
-        country: "United states",
+        country: "United States",
         latitude: 41.952804,
         longitude: -87.750853
       },
@@ -1125,7 +1125,7 @@ var columnThree = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60647,
-        country: "United states",
+        country: "United States",
         latitude: 41.931954,
         longitude: -87.725792
       },
@@ -1136,7 +1136,7 @@ var columnThree = new Vue({
         city: "Evergreen Park",
         state: "IL",
         zipCode: 60805,
-        country: "United states",
+        country: "United States",
         latitude: 41.720497,
         longitude: -87.708298
       },
@@ -1147,7 +1147,7 @@ var columnThree = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60607,
-        country: "United states",
+        country: "United States",
         latitude: 41.884649,
         longitude: -87.657411
       },
@@ -1158,7 +1158,7 @@ var columnThree = new Vue({
         city: "Chicago",
         state: "IL",
         zipCode: 60647,
-        country: "United states",
+        country: "United States",
         latitude: 41.920796,
         longitude: -87.693368
       }
