@@ -16,20 +16,11 @@
         Find FINO
     </h1>
     <div 
-        class="flex-grid" 
-        style="text-align: center;"
+        class="container" 
     >
         <div id="columnOne" class="col">
             <ul>
-                <li 
-                    v-for="vendor in vendors"
-                    style="list-style: none;
-                            margin-bottom: 10px;
-                            box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);
-                            width: 100%;
-                            text-align: center;
-                            border-radius: 10px;"
-                >
+                <li class="vendorListItem" v-for="vendor in vendors">
                     <div class="vendorModal">
                         <br>
                         <strong>{{vendor.name}}</strong>
@@ -49,15 +40,7 @@
         </div>
         <div id="columnTwo" class="col">
             <ul>
-                <li 
-                    v-for="vendor in vendors"
-                    style="list-style: none;
-                            margin-bottom: 10px;
-                            box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);
-                            width: 100%;
-                            text-align: center;
-                            border-radius: 10px;"
-                >
+                <li class="vendorListItem" v-for="vendor in vendors">
                     <div class="vendorModal">
                         <br>
                         <strong>{{vendor.name}}</strong>
@@ -78,15 +61,7 @@
 
         <div id="columnThree" class="col">
             <ul>
-                <li 
-                    v-for="vendor in vendors"
-                    style="list-style: none;
-                            margin-bottom: 10px;
-                            box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);
-                            width: 100%;
-                            text-align: center;
-                            border-radius: 10px;"
-                >
+                <li class="vendorListItem" v-for="vendor in vendors">
                     <div class="vendorModal">
                         <br>
                         <strong>{{vendor.name}}</strong>

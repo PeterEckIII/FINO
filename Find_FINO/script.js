@@ -61,7 +61,7 @@ var columnOne = new Vue({
         name: "Cafe Salsa",
         type: "Restaurant",
         address: "9935 W 55th St",
-        city: "Countryside ",
+        city: "Countryside",
         state: "IL",
         zipCode: 60525,
         country: "United states",
@@ -561,7 +561,7 @@ var columnTwo = new Vue({
         longitude: -87.655818
       },
       {
-        name: "Elbo Room ",
+        name: "Elbo Room",
         type: "Bar",
         address: "2871 N Lincoln Ave",
         city: "Chicago",
@@ -660,7 +660,7 @@ var columnTwo = new Vue({
         longitude: -87.632131
       },
       {
-        name: "Dusek's ",
+        name: "Dusek's",
         type: "Restaurant",
         address: "1227 W 18th St",
         city: "Chicago",
@@ -825,7 +825,7 @@ var columnThree = new Vue({
         name: "Elgin Liquor and Wine",
         type: "Liquor Store",
         address: "1350 E chicago unit 31",
-        city: "Elgin ",
+        city: "Elgin",
         state: "IL",
         zipCode: 60120,
         country: "United states",
@@ -880,7 +880,7 @@ var columnThree = new Vue({
         name: "Cardinal Wine and Spirit",
         type: "Liquor Store",
         address: "1616 W Algonquin Rd",
-        city: "Hoffman Estates ",
+        city: "Hoffman Estates",
         state: "IL",
         zipCode: 60192,
         country: "United states",
