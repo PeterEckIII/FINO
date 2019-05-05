@@ -1,0 +1,32 @@
+li {
+  list-style: none;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.2);
+  width: 100%;
+  text-align: center;
+  border-radius: 10px;
+  font-family: Roboto;
+}
+
+.flex-grid {
+  display: flex;
+  margin: 0 auto;
+}
+.col {
+  flex: 1;
+}
+
+#header {
+  text-align: center;
+  font-family: Roboto;
+}
+
+em {
+  color: #696969;
+}
+
+@media (max-width: 810px) {
+  .flex-grid {
+    display: block;
+  }
+}
