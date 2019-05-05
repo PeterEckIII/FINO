@@ -25,8 +25,8 @@ em {
   color: #696969;
 }
 
-@media (max-width: 1019px) {
-  .flex-grid {
+@media (max-width: 813px) {
+  .container {
     display: block;
   }
 }
